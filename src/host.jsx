@@ -1,2 +1,2 @@
 
-export const API = 'http://localhost:4001';
+export const API = 'https://capstonebe-79f5.onrender.com';
